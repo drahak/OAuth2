@@ -272,7 +272,7 @@ If application needs to get access token for their own account outside the conte
 POST //oauth.presenter.url/token
 	grant_type=client_credentials
 	&client_id=CLIENT_ID
-	&client_SECRET=CLIENT_SECRET
+	&client_secret=CLIENT_SECRET
 ```
 
 - [REQUIRED] **grant_type** - Password grant type uses identifier (so unexpectedly) `password`
