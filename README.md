@@ -22,7 +22,7 @@ or register it in config.neon:
 
 ```yaml
 extensions:
-  restful: Drahak\Restful\DI\RestfulExtension
+  oauth2: Drahak\OAuth2\DI\Extension
 ```
 
 Neon configuration
